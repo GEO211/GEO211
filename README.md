@@ -6,7 +6,7 @@
 # 👨‍💻 Geo | Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Geo!;Full-Stack+Developer;Fivem+Game+Developer;&center=true&size=20">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Geo!;Full-Stack+Developer&center=true&size=20">
 </div>
 
 ---
@@ -17,7 +17,7 @@ I am a Full-Stack Developer with experience in building scalable web application
 
 I also have expertise in FiveM game development, where I create and maintain custom servers and scripts for the FiveM platform.
 
-- 🌍 Based in: <strong>Philippines</strong>
+- 🌍 Based in the <strong>Philippines</strong>
 - 💬 Fun Fact: I can debug code faster with coffee ☕
 - 📫 [Contact Me](mailto:geodevelopment21@gmail.com) or [Visit Portfolio](https://geodevelopment.xyz)
 
@@ -73,6 +73,9 @@ I also have expertise in FiveM game development, where I create and maintain cus
     </td>
   </tr>
   <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua"/><br/>Lua
+    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/>MongoDB
     </td>
